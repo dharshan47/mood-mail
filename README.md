@@ -27,8 +27,9 @@ Simply type how you feel — happy, sad, angry, or anything else — and get a p
  ⚛️ **React**        
  🟦 **TypeScript**   
  🎨 **Tailwind CSS** 
+ 
  🧩 **Shadcn UI**   
- ⚙️ **Vite**         
+ 
 
 
 
