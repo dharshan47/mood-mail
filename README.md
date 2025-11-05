@@ -7,6 +7,8 @@ Simply type how you feel — happy, sad, angry, or anything else — and get a p
 
 🔗 mood-mail.netlify.app
 
+
+
 🧠 Features
 
 💬 Mood-based messages: Type your mood and get a matching “mail” instantly.
@@ -19,12 +21,15 @@ Simply type how you feel — happy, sad, angry, or anything else — and get a p
 
 💡 TypeScript support: Ensures robust type safety and maintainable code.
 
+
 🏗️ Tech Stack
 
-React
-TypeScript
-Tailwind CSS
-Shadcn Ui
+ ⚛️ **React**        
+ 🟦 **TypeScript**   
+ 🎨 **Tailwind CSS** 
+ 🧩 **Shadcn UI**   
+ ⚙️ **Vite**         
+
 
 
 ⚙️ Installation & Setup
